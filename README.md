@@ -3,7 +3,7 @@
 Passionate since my youngest age by computers, I devote my time to realize various projects allowing me to enrich my own knowledge.
 As my skills and knowledge grew, I became interested in different programming languages and technologies. 
 
-### [Things I love code with](https://openjdk.com/)
+### [Things I love code with](/)
 Today, I'm proficient in various programming languages.
 
 <div display="flex">
@@ -20,7 +20,7 @@ Today, I'm proficient in various programming languages.
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 </div>
 
-### [IDEs](https://jetbrain.com/)
+### [IDEs](/)
 Things I love to spend my days writing with a keyboard!
 
 <div display="flex">
@@ -33,7 +33,7 @@ Things I love to spend my days writing with a keyboard!
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text"/>
 </div>
 
-### [Tools I love use](https://agonkolgeci.com/)
+### [Tools I love use](/)
 What I love working on.
 
 <div display="flex">
@@ -45,7 +45,7 @@ What I love working on.
 
 ---
 
-### [Where I study](https://unige.ch/)
+### [Where I study](/)
 
 
 I'm currently studying for a Bachelor's degree in Computer Science at the [University of Geneva](https://unige.ch/).
@@ -54,7 +54,7 @@ I'm currently studying for a Bachelor's degree in Computer Science at the [Unive
 
 ---
 
-### [Where to find me](https://agonkolgeci.com)
+### [Where to find me](/)
 So don't hesitate to contact me if you are interested in something, even to say hello!
 
 <div display="flex">
