@@ -58,8 +58,8 @@ I'm currently studying for a Bachelor's degree in Computer Science at the [Unive
 So don't hesitate to contact me if you are interested in something, even to say hello!
 
 <div display="flex">
-    <a href="mailto:contact@agonkolgeci.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>
-    <a href="https://github.com/agonkolgeci"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/agon-kolgeci-193aa2266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="_blank"/></a>
-    <a href="https://twitter.com/agon_kolgeci"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" target="_blank"/></a>
+    <a href="mailto:contact@agonkolgeci.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>
+    <a href="https://github.com/agonkolgeci" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/agon-kolgeci-193aa2266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="_blank"/></a>
+    <a href="https://twitter.com/agon_kolgeci" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </div>
