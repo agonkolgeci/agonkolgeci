@@ -51,7 +51,7 @@ What I love working on.
 
 I'm currently studying for a Bachelor's degree in Computer Science at the [University of Geneva](https://unige.ch/).
 
-<img src="https://upload.wikimedia.org/wikipedia/fr/d/d2/Universit%C3%A9_de_Gen%C3%A8ve_%28logo%29.svg" alt="Bootstrap"/>
+<img src="https://upload.wikimedia.org/wikipedia/fr/d/d2/Universit%C3%A9_de_Gen%C3%A8ve_%28logo%29.svg" alt="Université de Genève"/>
 
 ---
 
