@@ -3,7 +3,7 @@
 Passionate since my youngest age by computers, I devote my time to realize various projects allowing me to enrich my own knowledge.
 As my skills and knowledge grew, I became interested in different programming languages and technologies. 
 
-### [Things I love code with](/)
+### Things I love code with
 Today, I'm proficient in various programming languages.
 
 <div display="flex">
@@ -20,20 +20,21 @@ Today, I'm proficient in various programming languages.
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 </div>
 
-### [IDEs](/)
+### IDEs
 Things I love to spend my days writing with a keyboard!
 
 <div display="flex">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij IDEA"/>
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"/>
-    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebSorm"/>
-    <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion"/>
+    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/langfr-330px-IntelliJ_IDEA_Icon.svg.png" alt="Intellij IDEA"/>
+    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/langfr-1024px-PyCharm_Icon.svg.png" alt="PyCharm"/>
+    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png" alt="WebStorm"/>
+    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1200px-Clion.svg.png" alt="CLion"/>
     <br/>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/>
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text"/>
+    <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1-1.svg" alt="Visual Studio Code"/>
+    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" alt="Sublime Text"/>
+
 </div>
 
-### [Tools I love use](/)
+### Tools I love use
 What I love working on.
 
 <div display="flex">
@@ -45,7 +46,7 @@ What I love working on.
 
 ---
 
-### [Where I study](/)
+### Where I study
 
 
 I'm currently studying for a Bachelor's degree in Computer Science at the [University of Geneva](https://unige.ch/).
@@ -54,7 +55,7 @@ I'm currently studying for a Bachelor's degree in Computer Science at the [Unive
 
 ---
 
-### [Where to find me](/)
+### [Where to find me](https://agonkolgeci.com/)
 So don't hesitate to contact me if you are interested in something, even to say hello!
 
 <div display="flex">
