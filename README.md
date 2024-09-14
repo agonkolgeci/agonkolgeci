@@ -3,64 +3,72 @@
 Passionate since my youngest age by computers, I devote my time to realize various projects allowing me to enrich my own knowledge.
 As my skills and knowledge grew, I became interested in different programming languages and technologies. 
 
-### Things I love code with
-Today, I'm proficient in various programming languages.
+### Explore more on my Website : [agonkolgeci.com](https://agonkolgeci.com/)
 
-<div display="flex">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-</div>
+&nbsp;
 
-### IDEs
-Things I love to spend my days writing with a keyboard!
+## Things I love code with
+Today, I'm proficient in various programming languages, frameworks and tools.
 
-<div display="flex">
-    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/langfr-330px-IntelliJ_IDEA_Icon.svg.png" alt="Intellij IDEA"/>
-    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/langfr-1024px-PyCharm_Icon.svg.png" alt="PyCharm"/>
-    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png" alt="WebStorm"/>
-    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1200px-Clion.svg.png" alt="CLion"/>
-    <br/>
-    <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1-1.svg" alt="Visual Studio Code"/>
-    <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" alt="Sublime Text"/>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-</div>
+### Frameworks
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools I love use
-What I love working on.
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div display="flex">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-</div>
+&nbsp;
 
----
+## IDEs
+Things I love to spend my days writing with a keyboard!
 
-### Where I study
+### JetBrains lover
+![Intellij IDEA](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/langfr-48px-IntelliJ_IDEA_Icon.svg.png)
+![PyCharm](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/langfr-48px-PyCharm_Icon.svg.png)
+![WebStorm](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/48px-WebStorm_Icon.svg.png)
+![CLion](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/48px-Clion.svg.png)
 
+### Others I like too
+![VSCode](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/langfr-48px-Visual_Studio_Code_1.35_icon.svg.png)
+![Sublime Text](https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Sublime_text_logo.png/48px-Sublime_text_logo.png)
+![Replit](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/48px-New_Replit_Logo.svg.png)
+
+&nbsp;
+
+## Where I study
 
 I'm currently studying for a Bachelor's degree in Computer Science at the [University of Geneva](https://unige.ch/).
 
-<img src="https://upload.wikimedia.org/wikipedia/fr/d/d2/Universit%C3%A9_de_Gen%C3%A8ve_%28logo%29.svg" alt="Université de Genève"/>
+![UNIGE](https://upload.wikimedia.org/wikipedia/fr/d/d2/Universit%C3%A9_de_Gen%C3%A8ve_%28logo%29.svg)
 
----
+&nbsp;
 
-### [Where to find me](https://agonkolgeci.com/)
-So don't hesitate to contact me if you are interested in something, even to say hello!
+## [Where to find me](https://agonkolgeci.com/)
+Feel free to reach me for inquiries or simply to connect !
 
-<div display="flex">
-    <a href="mailto:contact@agonkolgeci.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>
-    <a href="https://github.com/agonkolgeci" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/agon-kolgeci-193aa2266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="_blank"/></a>
-    <a href="https://twitter.com/agon_kolgeci" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</div>
+[![Contact me](https://img.shields.io/badge/Contact_me-152238?style=for-the-badge&logo=mail&logoColor=white)](https://agonkolgeci.com/contact)
+
+### Socials
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agonkolgeci.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/agon-kolgeci-193aa2266/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/agon_kolgeci)
