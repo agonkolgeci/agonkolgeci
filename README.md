@@ -1,7 +1,9 @@
-# Hi there 👋 I'm Agon KOLGECI, a software developer
+# Hi there 👋 I'm Agon KOLGECI, a software developer. 
+
+Also known as Jielos.
 
 Passionate since my youngest age by computers, I devote my time to realize various projects allowing me to enrich my own knowledge.
-As my skills and knowledge grew, I became interested in different programming languages and technologies. 
+As my skills and knowledge grew, I became interested in different programming languages and technologies.
 
 ### Explore more on my Website : [agonkolgeci.com](https://agonkolgeci.com/)
 
