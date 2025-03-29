@@ -61,4 +61,4 @@ I'm currently studying for a Bachelor's degree in Computer Science at the [Unive
 Feel free to reach me for inquiries or simply to connect !
 
 [![Contact](https://img.shields.io/badge/Contact-2C3D5A?style=for-the-badge&logo=mail&logoColor=white)](https://agonkolgeci.com/contact)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/agon-kolgeci-193aa2266/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agon-kolgeci-193aa2266/)
