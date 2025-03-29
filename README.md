@@ -1,14 +1,16 @@
-# Hi there 👋 I'm Agon KOLGECI, a software developer. 
+<!-- Intro -->
+# Hi there 👋 I'm Agon KOLGECI, a software developer.
 
-Also known as Jielos.
+Passionate since my youngest age about computers, I devote my time to realizing various projects that allow me to enrich my knowledge.
 
-Passionate since my youngest age by computers, I devote my time to realize various projects allowing me to enrich my own knowledge.
-As my skills and knowledge grew, I became interested in different programming languages and technologies.
+As my skills and knowledge grew, I became interested in different programming languages and technologies, focusing on designing and building efficient, scalable, and user-friendly applications.
 
 ### Explore more on my Website : [agonkolgeci.com](https://agonkolgeci.com/)
 
 &nbsp;
 
+
+<!-- Languages -->
 ## Things I love code with
 Today, I'm proficient in various programming languages, frameworks and tools.
 
@@ -39,24 +41,12 @@ Today, I'm proficient in various programming languages, frameworks and tools.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-&nbsp;
-
-## IDEs
-Things I love to spend my days writing with a keyboard!
-
-### JetBrains lover
-![Intellij IDEA](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/langfr-48px-IntelliJ_IDEA_Icon.svg.png)
-![PyCharm](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/langfr-48px-PyCharm_Icon.svg.png)
-![WebStorm](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/48px-WebStorm_Icon.svg.png)
-![CLion](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/48px-Clion.svg.png)
-
-### Others I like too
-![VSCode](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/langfr-48px-Visual_Studio_Code_1.35_icon.svg.png)
-![Sublime Text](https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Sublime_text_logo.png/48px-Sublime_text_logo.png)
-![Replit](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/48px-New_Replit_Logo.svg.png)
+*Category may include items that are not strictly programming languages, frameworks, or related technologies in the formal sense but are still relevant in a development context.
 
 &nbsp;
 
+
+<!-- School -->
 ## Where I study
 
 I'm currently studying for a Bachelor's degree in Computer Science at the [University of Geneva](https://unige.ch/).
@@ -65,12 +55,10 @@ I'm currently studying for a Bachelor's degree in Computer Science at the [Unive
 
 &nbsp;
 
+
+<!-- Contact -->
 ## [Where to find me](https://agonkolgeci.com/)
 Feel free to reach me for inquiries or simply to connect !
 
-[![Contact me](https://img.shields.io/badge/Contact_me-152238?style=for-the-badge&logo=mail&logoColor=white)](https://agonkolgeci.com/contact)
-
-### Socials
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agonkolgeci.com)
+[![Contact](https://img.shields.io/badge/Contact-2C3D5A?style=for-the-badge&logo=mail&logoColor=white)](https://agonkolgeci.com/contact)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/agon-kolgeci-193aa2266/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/agon_kolgeci)
