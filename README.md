@@ -1,5 +1,5 @@
 <!-- Intro -->
-# Hi there 👋 I'm Agon KOLGECI, a software developer.
+# Hi there 👋 I'm Agon, a software developer.
 
 ![](https://komarev.com/ghpvc/?username=agonkolgeci&label=PROFILE+VIEWS)
 
